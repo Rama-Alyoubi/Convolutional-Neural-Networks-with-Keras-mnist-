@@ -5,11 +5,12 @@ This repository contains an implementation of a Convolutional Neural Network (CN
 ## Requirements
 To run the code, you need the following dependencies installed:
 
-- Python (3.6 or higher)
-- Keras (2.6.0 or higher)
-- TensorFlow (2.6.0 or higher)
-- NumPy (1.19.5 or higher)
-- Matplotlib (3.4.3 or higher)
+- Python 
+- Keras 
+- TensorFlow 
+- NumPy 
+- Matplotlib
+  
 ## Dataset
 The MNIST dataset is automatically downloaded and preprocessed by Keras. It is split into training and test sets, with the training set used for model training and the test set for evaluation.
 
@@ -45,9 +46,9 @@ _________________________________________________________________
 ```
 
 ## Acknowledgments
-The code implementation in this repository is based on the knowledge and skills acquired from the IBM course titled "Introduction to Deep Learning & Neural Networks with Keras." We would like to express our gratitude to IBM for providing valuable educational resources and guidance in the field of deep learning.
+The code implementation in this repository is based on the knowledge and skills acquired from the IBM course titled "Introduction to Deep Learning & Neural Networks with Keras." I would like to express my gratitude to IBM for providing valuable educational resources and guidance in the field of deep learning.
 
-We also acknowledge the contributions of various tutorials, guides, and examples available in the Keras documentation and the wider deep learning community, which have influenced the development of this code implementation.
+I also acknowledge the contributions of various tutorials, guides, and examples available in the Keras documentation and the wider deep learning community, which have influenced the development of this code implementation.
 
 If you find this code useful, consider giving a star to the repository or acknowledging it in your project's documentation.
 
